@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasulfurkan" alt="rasulfurkan" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/https://twitter.com/ozgunrasul" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ozgunrasul?logo=twitter&style=for-the-badge" alt="https://twitter.com/ozgunrasul" /></a> </p>
+
 - 🌱 I’m currently learning **Java , C#**
 
 - 💬 Ask me about **Android**
@@ -18,8 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://twitter.com/ozgunrasul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ozgunrasul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ras%c3%bcl-furkan-%c3%b6zg%c3%bcn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ras%c3%bcl-furkan-%c3%b6zg%c3%bcn/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rasulfurkanozgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rasulfurkanozgun" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/rasulfurkanozgun?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rasulfurkanozgun?hr_r=1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
